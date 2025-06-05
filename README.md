@@ -25,7 +25,6 @@ Before you begin, make sure you have these installed on your system:
 
 ## 🛠 1. Clone or Download the Project
 
-```bash
 git clone https://github.com/ashish7408/docker-node-demo
 cd docker-node-demo
 
