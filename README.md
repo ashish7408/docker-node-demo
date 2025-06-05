@@ -4,8 +4,6 @@ This is a Node.js application fully containerized using Docker. It’s designed 
 ---
 
 ## 📦 Project Structure
-
----
 local-devops-app/
 ├── Dockerfile
 ├── package.json
@@ -13,9 +11,7 @@ local-devops-app/
 ├── server.js
 └── public/
     └── index.html
-
----
-
+    
 ## 📦 Requirements
 
 Before you begin, make sure you have these installed on your system:
