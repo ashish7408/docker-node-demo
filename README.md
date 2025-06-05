@@ -30,19 +30,19 @@ cd docker-node-demo
 
 ## 🐳 Docker Commands
 
-### Build the Docker image:
+### * Build the Docker image:
 docker build -t local-devops-app .
 
-### Run the Docker Container:
+### * Run the Docker Container:
 docker run -d -p 8080:80 local-devops-app
 
-### To find all running Docker containers, use this command:
+### * To find all running Docker containers, use this command:
 docker ps
 
-### If you only want the container IDs:
+### * If you only want the container IDs:
 docker ps -q
 
-### To Stop a Container:
+### * To Stop a Container:
 docker stop <container id>
 
 ### To run app : go to : http://localhost:8080
