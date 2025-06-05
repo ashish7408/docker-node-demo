@@ -27,7 +27,7 @@ Before you begin, make sure you have these installed on your system:
 
 git clone https://github.com/ashish7408/docker-node-demo
 cd docker-node-demo
-
+## Go to your project folder then build docker image (Make sure folder contain all files and with same extentons as this one)
 ## 🐳 Docker Commands
 
 ### * Build the Docker image:
