@@ -13,6 +13,23 @@ local-devops-app/
 └── public/
     └── index.html
 
+---
+
+## 📦 Requirements
+
+Before you begin, make sure you have these installed on your system:
+
+- [Node.js](https://nodejs.org/) (for local testing if needed)
+- [Docker Desktop](https://www.docker.com/products/docker-desktop) (make sure Docker is running)
+
+---
+
+## 🛠 1. Clone or Download the Project
+
+```bash
+git clone https://github.com/ashish7408/docker-node-demo
+cd docker-node-demo
+
 ## 🐳 Docker Commands
 
 ### Build the Docker image:
